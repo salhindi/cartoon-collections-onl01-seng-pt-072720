@@ -15,6 +15,8 @@ def summon_captain_planet(veggies)
   upcase_veggies << veggies[i].upcase + "!"
   i += 1
 end
+upcase_veggies
+end
 
 def long_planeteer_calls# code an argument here
   # Your code here
