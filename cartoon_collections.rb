@@ -1,9 +1,8 @@
 def roll_call_dwarves(dwarves)
   i= 0
   while i < dwarves.length
-  dwarves.each.with_index 
   puts "#{}"
-  
+  dwarves.each.with_index 
   # code an argument here
   # Your code here
 end
