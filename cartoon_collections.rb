@@ -12,7 +12,7 @@ def summon_captain_planet(veggies)
   i = 0
   upcase_veggies = []
   while i < veggies.length
-  upcase_veggies << veggies.upcase
+  upcase_veggies << veggies[i].upcase
   i += 1
 end
 
