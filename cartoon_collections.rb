@@ -1,4 +1,6 @@
 def roll_call_dwarves(dwarves)
+  i= 0
+  
   dwarves.each.with_index 
   puts "#{}"
   
