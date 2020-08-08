@@ -11,6 +11,7 @@ end
 def summon_captain_planet(veggies)
   i = 0
   upcase_veggies = []
+  while veggies[i]
   upcase_veggies << veggies.upcase
   i += 1
 end
